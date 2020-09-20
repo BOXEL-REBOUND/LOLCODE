@@ -1,0 +1,4 @@
+$ git clone https://github.com/justinmeza/lci.git
+$ cd lci
+$ cmake .
+$ make && make install
